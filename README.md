@@ -3,6 +3,6 @@ The project that was created based on the book written by Eric Matiz "Python Cra
 
 Description : network log system for tracking information
 
-Language:Python
-Framework:Django,Django-Bootstrap
+<p>Language:Python</p>
+<p>Framework:Django,Django-Bootstrap</p>
 IDE:PyCharm
